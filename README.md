@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Ícaro Vinícius 👋
 
-Olá, meu nome é Ícaro, tenho 18 anos e sou estudante de Ciência da Computação no Instituto Federal do Norte de Minas Gerais - IFNMG !!
+Olá, meu nome é Ícaro, tenho 19 anos e sou estudante de Ciência da Computação no Instituto Federal do Norte de Minas Gerais - IFNMG !!
 
 Contato: icaro.v84@gmail.com
 

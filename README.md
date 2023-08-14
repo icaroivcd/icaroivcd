@@ -2,7 +2,6 @@
 
 Olá, meu nome é Ícaro, tenho 19 anos e sou estudante de Ciência da Computação no Instituto Federal do Norte de Minas Gerais - IFNMG !!
 
-Contato: icaro.v84@gmail.com
 
 ![Ícaro Vinícius GitHub stats](https://github-readme-stats.vercel.app/api?username=icaroivcd&show_icons=true&theme=onedark) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icaroivcd&theme=ondeark)](https://github.com/anuraghazra/github-readme-stats)

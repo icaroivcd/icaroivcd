@@ -18,6 +18,15 @@ Me chamo Ícaro Vinícius, tenho 21 anos e sou natural de Minas Gerais. Concluí
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
+<img
+    align="left" 
+    alt="Spring" 
+    title="C++"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+    />
+          
 <img 
     align="left" 
     alt="C++" 

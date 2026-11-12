@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Ícaro Vinícius
 
-Me chamo Ícaro Vinícius, tenho 21 anos e sou natural de Minas Gerais. Concluí o ensino médio no SESI, com o curso técnico em eletrotécnica. Atualmente, estou cursando Ciência da Computação no IFNMG. 
+Me chamo Ícaro Vinícius, tenho 22 anos e sou natural de Minas Gerais. Concluí o ensino médio no SESI, com o curso técnico em eletrotécnica. Atualmente, estou cursando Ciência da Computação no IFNMG. 
 
 ⚒️ Atualmente estudando Java e tecnologias backend.
 
